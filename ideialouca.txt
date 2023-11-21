@@ -1,0 +1,6 @@
+cada ponto vai ter um ID
+buscar cada elemento dos pontos no java
+deixar uma linha escondida(ou ao clicar ele cria uma linha)
+criar um evento em html
+cada click uma ação que mostra a linha
+let N = document.getElementById("identificador")
